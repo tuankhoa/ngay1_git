@@ -1,1 +1,1 @@
-console.log('Khoa dep trai vler')
+console.log('tam su tham kin')
